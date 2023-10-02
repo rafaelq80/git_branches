@@ -1,1 +1,3 @@
-﻿SELECT * FROM tb_postagens;
+﻿USE db_blogpessoal;
+
+SELECT * FROM tb_postagens;
